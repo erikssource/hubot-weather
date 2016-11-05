@@ -11,7 +11,8 @@ Add ```"hubot-weather"``` in ```external-scripts.json``` file.
 
 Run ```npm install``` command and you are ready to go!
 
-Add environment variable `HUBOT_OWM_APIKEY` with API key to openweathermap [More info here](http://openweathermap.org/faq#error401).
+Add environment variable `HUBOT_OWM_APIKEY` with API key to openweathermap [More info here](http://openweathermap.org/faq#error401).  
+
 Add optional environment variable `HUBOT_WEATHER_UNITS` with value 'imperial' or 'metric' to set display units. Default is metric.
 
 #Example
